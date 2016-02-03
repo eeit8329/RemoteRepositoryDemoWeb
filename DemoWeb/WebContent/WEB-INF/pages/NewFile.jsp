@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<form action=""></form>
+<form action="DemoWeb/demo3.view"></form>
 
 </body>
 </html>
