@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<form action=""></form>
+<form action="/DemoWeb/function/demo2.view" method="post"></form>
 
 </body>
 </html>
